@@ -3,7 +3,7 @@ CR8Pass: Your Bulletproof Password Generator
 
 >>Description:
 
-  This repository contains the code for CR8Pass, a Python program that generates secure passwords for user. With CR8Pass, user can easily create strong passwords 
+  This repository contains the code for CR8Pass, a Python program that generates secure passwords for user.Complete with the power of emojis to add a touch of personality. With CR8Pass, user can easily create strong passwords 
   that will help protect user's online accounts from unauthorized access.
 
 >>Features:
